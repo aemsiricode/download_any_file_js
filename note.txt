@@ -1,0 +1,8 @@
+Past Url of Image, Video, or pdf to download
+
+#e9ebef
+#f9fafc
+#b3b2b2
+#165ef0
+
+/^.*[\\\/]/, ''
